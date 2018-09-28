@@ -1,0 +1,21 @@
+body { 
+	color: #59C3C3;
+	background-color: black;
+	background-image: url(../img/background2.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.dance {
+	position: fixed;
+	bottom: 0px;
+	right: 0px;
+}
+.prev {
+	color: #59C3C3;
+}
+
+.test {
+	text-decoration: underline overline wavy blue;
+}

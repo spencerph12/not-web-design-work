@@ -1,0 +1,52 @@
+body { 
+	color: white;
+	background-color: black;
+	background-image: url(../img/background2.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+	color: #59C3C3;
+	border-color: #B24C63;
+}
+ 
+.corner {
+	position: fixed;
+	top: 0px;
+	right: 0px;
+}
+
+.amd {
+	max-height: 850px;
+	max-width: 850px;
+}
+
+.bridge {
+	max-width: 850px;
+	max-height: 850px;
+	
+}
+
+.next {
+	color: #59C3C3;
+}
+
+ h1 {
+ 	color: red;
+}
+
+ h2 {
+ 	color: yellow;
+}
+
+ h3 {
+ 	color: yellow;
+}
+
+ a {
+ 	color: yellow;
+}
